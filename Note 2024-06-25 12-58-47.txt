@@ -1,0 +1,91 @@
+Ruboni Tourism Village
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruboni Tourism Village</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+            text-align: center;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .highlight {
+            background-color: #FFFFE0;
+            padding: 5px;
+            border-radius: 4px;
+        }
+        .activities {
+            margin-top: 20px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to Ruboni Tourism Village</h1>
+        <p>Your gateway to authentic cultural experiences and breathtaking natural beauty.</p>
+    </div>
+
+    <div class="container">
+        <h2>About Ruboni Tourism Village</h2>
+        <p>Ruboni Tourism Village, nestled in the heart of a vibrant forest, offers a unique blend of cultural immersion and eco-tourism. Located in the Rwenzori Mountains of Uganda, this community-driven initiative aims to showcase the rich traditions of the Bakonzo people while preserving the natural environment.</p>
+
+        <h2>Why Visit Ruboni?</h2>
+        <ul>
+            <li>Experience traditional Bakonzo hospitality and learn about their customs and rituals.</li>
+            <li>Explore the diverse flora and fauna of the Rwenzori Mountains National Park.</li>
+            <li>Engage in eco-friendly activities such as guided nature walks, birdwatching, and cultural performances.</li>
+            <li>Support sustainable tourism practices that benefit the local community.</li>
+            <li>Shop for authentic crafts and souvenirs handmade by local artisans.</li>
+        </ul>
+
+        <div class="highlight">
+            <p><strong>Join us in preserving nature and empowering communities through responsible tourism!</strong></p>
+        </div>
+
+        <div class="activities">
+            <h2>Activities at Ruboni Tourism Village</h2>
+            <ul>
+                <li>Guided Nature Walks</li>
+                <li>Cultural Performances</li>
+                <li>Traditional Cooking Classes</li>
+                <li>Artisan Workshops</li>
+                <li>Community Storytelling Sessions</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Ruboni Tourism Village. All rights reserved.</p>
+    </div>
+</body>
+</html>
